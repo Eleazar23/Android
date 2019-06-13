@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GpsExam</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="create_account_button">Create Account</string>
+    <string name="signin_button">Sign In</string>
+    <string name="welcome_to_ChoferPro">Welcome to ChoferPro</string>
+    <string name="Usuario">Usuario</string>
+    <string name="hint_usuario">Nombre</string>
+    <string name="hint_Nombre">Nombre</string>
+    <string name="hint_correo">Correo electronico</string>
+    <string name="title_activity_location">Map</string>
+</resources>

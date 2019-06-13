@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "614528978850",
+    "firebase_url": "https://gpschoferpro.firebaseio.com",
+    "project_id": "gpschoferpro",
+    "storage_bucket": "gpschoferpro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614528978850:android:15bc303dd9c2356b",
+        "android_client_info": {
+          "package_name": "com.example.gpsexam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614528978850-4qcelmk6tgv4gpbgsdpqo6jrilglacsm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gpsexam",
+            "certificate_hash": "d273009a234c090a0b0713407c0d5aedb750cdf2"
+          }
+        },
+        {
+          "client_id": "614528978850-0tved0r0psqieapit6hii6un5vfuif5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0igMNKWEPC6O42Bus_ZlzjWSdMGg1IJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614528978850-0tved0r0psqieapit6hii6un5vfuif5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
